@@ -1,0 +1,7 @@
+.terraform/
+*.tf
+*.tf.imports
+*.tfstate
+*.tfstate.backup
+*.tfvars
+vendor/
